@@ -1,0 +1,7 @@
+Pandas : it's a famous and most importent librery used for frameing data
+sci-kit learn : mostly used to train ,test(validate),data preparation,etc...
+    sklearn.model_selection ---> For spliting data set into training part and testing part
+    sklearn.ensemble -----> For selecting level of dependency which help to get better fit of model
+    sklearn.Impute ------> For model preparation it will replace NAN data with mean of the column
+    sklearn.metrics ------> It is used to know the Mean Absolute Error(MAE) which is a degree of finding best- 
+                            fit (if MAE is low then the RandomForestRegressor used n_estimators is best else we search for another n_estimators)
