@@ -5,3 +5,5 @@ sci-kit learn : mostly used to train ,test(validate),data preparation,etc...
         sklearn.Impute ------> For model preparation it will replace NAN data with mean of the column
         sklearn.metrics ------> It is used to know the Mean Absolute Error(MAE) which is a degree of finding best- 
                                 fit (if MAE is low then the RandomForestRegressor used n_estimators is best else we search for another n_estimators)
+matplotlib:It's used for the visualization 
+Data Set:melbourn housing data @copy rights to the kaggle
